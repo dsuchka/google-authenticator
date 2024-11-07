@@ -1,0 +1,15 @@
+Google:
+  - name: account1
+    code: AAAA BBBB CCCC DDDD EEEE FFFF HHHH GGGG
+  - name: account2
+    code: O234 A234 B345 C456 D567 E765 F654 H543
+
+AnotherService:
+  SubService1:
+    - name: abc@gmail.com
+      code: AAAA BBBB CCCC DDDD
+    - name: def@gmail.com
+      code: EEEE FFFF HHHH GGGG
+  SubService2:
+    - name: core@mail
+      code: O234 A234 B345 C456
